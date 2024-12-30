@@ -1,0 +1,2 @@
+this is mango file
+you're reading this, you've probably just run our installer and
